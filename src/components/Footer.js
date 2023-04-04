@@ -5,7 +5,7 @@ function Footer() {
           <main>
           <img src={logo} alt='' />
             <div className='text-box' id='tb-1'>
-              <h3>Doormat Navigation</h3>
+              <h3>Doormat NavHomepageigation</h3>
               <h4>Home
                   <br/>
                   About
